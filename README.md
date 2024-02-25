@@ -2,7 +2,6 @@
 How to use our product??
 -------------------------------------------------------------------------------------------------------
 get the projet directly from Dokcer Hub:
-(Commande)
 
 1. docker login
 2. docker pull yaobh/project_linux:v1
@@ -43,4 +42,12 @@ With git:
 Votre prochain partenaire incontournable dans l'univers du trading financé par l'intelligence artificielle. 
 Cette application est conçu pour transformer l'analyse de marché en une expérience à la fois intuitive et puissante.
 ![image](https://github.com/BeihaiYao/Projet-Linux/assets/153101259/49735679-eb0f-49ba-bead-1ed14729a895)
+
+Plus vite!
+          Plus simple!
+                   Plus pratique!
+
+![image](https://github.com/BeihaiYao/Projet-Linux/assets/153101259/b248eab0-18c2-4229-818f-7d27bea59c64)
+Rejoignez l'avant-garde du trading intelligent.
+ Avec "Machine learning & stratégie de trading", vous n'êtes pas seulement en train de suivre les tendances – vous les façonnez.
 
