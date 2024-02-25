@@ -1,6 +1,6 @@
 **************************************************************************************************
 How to use our product??
-
+-------------------------------------------------------------------------------------------------------
 get the projet directly from Dokcer Hub:
 (Commande)
 
@@ -22,7 +22,7 @@ But be careful!! if you don't deploy it on a server, please change the URL to 'l
 
 ***************************************************************************************************
 
-With server: 
+With git: 
 
 1.Cloner le repository
 
@@ -36,3 +36,11 @@ With server:
 3.Lancer ensuite l'application via docker sur port 9090 auùil faudra ouvrir au préalable
 
 - docker run -it -p 9090:9090 nys
+
+-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+'Machine learning & trading : Dashboard interactif en Python avec Streamlit'
+Votre prochain partenaire incontournable dans l'univers du trading financé par l'intelligence artificielle. 
+Cette application est conçu pour transformer l'analyse de marché en une expérience à la fois intuitive et puissante.
+![image](https://github.com/BeihaiYao/Projet-Linux/assets/153101259/49735679-eb0f-49ba-bead-1ed14729a895)
+
