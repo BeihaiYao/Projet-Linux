@@ -2,9 +2,9 @@
 get the projet directly from Dokcer Hub:
 (Commande)
 
-1.docker login
-2.docker pull yaobh/project_linux:v1
-3.docker run -it -p 9090:9090 yaobh/project_linux:v1
+1. docker login
+2. docker pull yaobh/project_linux:v1
+3. docker run -it -p 9090:9090 yaobh/project_linux:v1
 
 You will get these information below:
 -------------------------------------------------------------------------------------------------------
