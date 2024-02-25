@@ -23,11 +23,14 @@ But be careful!! if you don't deploy it on a server, please change the URL to 'l
 With server: 
 
 1.Cloner le repository
-git clone https://github.com/neilmruben/Tradingproject.git
-cd Tradingproject
+
+- git clone https://github.com/neilmruben/Tradingproject.git
+- cd Tradingproject
 
 2.Construire l'image à partir du Dockerfile puis ouvrir lùapplication
-docker build -t nys .
+
+- docker build -t nys .
 
 3.Lancer ensuite l'application via docker sur port 9090 auùil faudra ouvrir au préalable
-docker run -it -p 9090:9090 nys
+
+- docker run -it -p 9090:9090 nys
