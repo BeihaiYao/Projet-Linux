@@ -24,7 +24,7 @@ With server:
 
 1.Cloner le repository
 
-- git clone https://github.com/neilmruben/Tradingproject.git
+- git clone git@github.com:BeihaiYao/Projet-Linux.git
 - cd Tradingproject
 
 2.Construire l'image à partir du Dockerfile puis ouvrir lùapplication
